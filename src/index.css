@@ -1,0 +1,13 @@
+#root{
+    background: url('./assets/images/bg-desktop-light.jpg'); 
+    background-color: transparent;
+    background-size: contain;
+    background-position: start;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
